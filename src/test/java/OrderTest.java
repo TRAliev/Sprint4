@@ -51,5 +51,6 @@ public class OrderTest extends BaseTest{
         Assert.assertTrue("Ожидалось, что заказ оформлен", orderAboutRentPage.isOrderProcessed());
 
     }
-
 }
+
+//Изменения

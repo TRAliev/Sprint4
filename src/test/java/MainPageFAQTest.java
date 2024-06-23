@@ -39,3 +39,4 @@ public class MainPageFAQTest extends BaseTest{
     }
 
 }
+//Изменения
